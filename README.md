@@ -14,7 +14,7 @@
 | `常量` | √ | N/A |
 | `n维数组` | √ | TestingSrc/Test00_ArrayTest, TestingSrc/Test05_WhileArray |
 | `全运算符` | √ | TestingSrc/Test15_BoolTest |
-| `语法错误检查` | ⏳ | N/A |
+| `语法错误检查` | 不高兴做了 | N/A |
 | `语义错误检查` | √ | N/A |
 
 X0-Complete is a complete compiler copy from http://github.com/SubjectNoi/X0-Compiler.
