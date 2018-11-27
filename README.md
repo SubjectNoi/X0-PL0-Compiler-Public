@@ -17,7 +17,7 @@
 | `语法错误检查` | ⏳ | N/A |
 | `语义错误检查` | √ | N/A |
 
-Gokurou Sama Desu
+X0-Complete is a complete compiler copy from http://github.com/SubjectNoi/X0-Compiler.
 
 Usage：
 
@@ -28,6 +28,6 @@ Ubuntu>$ git clone http://github.com/SubjectNoi/X0-Compiler-Public
 Ubuntu>$ make
 ```
 ```
-Ubuntu>$ ./X0 [Your source file]
+Ubuntu>$ ./X0-Snapshot [Your source file]
 ```
 
