@@ -22,7 +22,7 @@ Gokurou Sama Desu
 Usage：
 
 ```
-Ubuntu>$ git clone http://github.com/SubjectNoi/X0-Compiler
+Ubuntu>$ git clone http://github.com/SubjectNoi/X0-Compiler-Public
 ```
 ```
 Ubuntu>$ make
