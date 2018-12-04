@@ -2,7 +2,7 @@
 
 | **Modules** | **Status** | **Test Source** |
 | :------------- | :------------- | :------------- |
-| `多类型支持` | √ | TestingSrc/Test10_TypeTest |
+| `多类型支持(integer, real, string, char, bool)` | √ | TestingSrc/Test10_TypeTest |
 | `for语句` | √ |  TestingSrc/Test06_ForBreak, TestingSrc/Test08_ForLoopPrimeNumber, TestingSrc/Test12_ForContinue |
 | `break/continue` | √ | TestingSrc/Test03_SimpleWhileBreak, TestingSrc/Test11_WhileContinue |
 | `++/--` | √ | TestingSrc/Test_IncPlusMinus, TestingSrc/Test09_TwoWhileLoop |
