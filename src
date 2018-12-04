@@ -1,0 +1,14 @@
+main {
+    integer a, b, res := 1;
+    read(a);
+    read(b);
+    integer base := a;
+    while (b) {
+        if (b & 1) {
+            res := res * base;
+        }
+        base := base * base;
+        b := b >> 1;
+    }
+    write(res);
+}
