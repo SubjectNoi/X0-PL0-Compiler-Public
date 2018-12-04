@@ -17,7 +17,7 @@
 | `语法错误检查` | 不高兴做了 | N/A |
 | `语义错误检查` | √ | N/A |
 
-Complete compiler with translation model is at: http://github.com/SubjectNoi/X0-Compiler, which is a private repository, contact ilovehanhan1120@hotmail.com if need access
+Complete compiler with translation model is at: http://github.com/SubjectNoi/X0-Compiler, which is a private repository, contact ilovehanhan1120@hotmail.com if need access. X0 file is the complete executable file of complete compiler project, can be used for your test. Best wishes. 
 
 Usage：
 
