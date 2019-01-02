@@ -122,3 +122,4 @@ int yygetchar(void) {
 int yywrap(void) {
 	return 1;
 }
+
