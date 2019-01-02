@@ -1,4 +1,4 @@
-# X0-Compiler-Snapshot(Mini-C-BNF_Only)
+# X0-Compiler-Snapshot(完整版带翻译模式解禁，谢谢茄子)
 
 | **Modules** | **Status** | **Test Source** |
 | :------------- | :------------- | :------------- |
