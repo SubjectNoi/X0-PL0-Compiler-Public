@@ -3,7 +3,7 @@
 #include "string.h"
 #include "malloc.h"
 #include "stdlib.h"
-#include "X0-Bison-Snapshot.tab.h"
+#include "X0-Bison.tab.h"
 
 int 		line = 1;
 %}
@@ -122,5 +122,3 @@ int yygetchar(void) {
 int yywrap(void) {
 	return 1;
 }
-
-
