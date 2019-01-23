@@ -5,7 +5,7 @@
 | `多类型支持(integer, real, string, char, bool)` | √ | TestingSrc/Test10_TypeTest |
 | `for语句` | √ |  TestingSrc/Test06_ForBreak, TestingSrc/Test08_ForLoopPrimeNumber, TestingSrc/Test12_ForContinue |
 | `break/continue` | √ | TestingSrc/Test03_SimpleWhileBreak, TestingSrc/Test11_WhileContinue |
-| `++/--` | √ | TestingSrc/Test_IncPlusMinus, TestingSrc/Test09_TwoWhileLoop |
+| `++/--` | √ | TestingSrc/Test07_IncPlusMinus, TestingSrc/Test09_TwoWhileLoop |
 | `while-for-if-do嵌套` | √ | TestingSrc/Test13_IfElseInIf, TestingSrc/Test04_ComplexWhileIfBreak, TestingSrc/Test02_WhileIfTest |
 | `switch-case` | √ | TestingSrc/Test16_WhileCase |
 | `立即数` | √ | N/A |
@@ -17,7 +17,7 @@
 | `语法错误检查` | 不高兴做了 | N/A |
 | `语义错误检查` | √ | N/A |
 
-Complete compiler with translation model is at: http://github.com/SubjectNoi/X0-Compiler, which is a private repository, contact ilovehanhan1120@hotmail.com if need access. X0 file is the complete executable file of complete compiler project, can be used for your test. Best wishes. 
+Now complete compiler with complete translation model is available. Any questions? Contact **ilovehanhan1120@hotmail.com**. But be attention, please do not copy this repo entirely for your academic work, it contains some fatal errors to be adjusted. Thanks. 
 
 Usage：
 
